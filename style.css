@@ -30,7 +30,7 @@ body {
   font-size: 1.2rem;
 	display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 header {
